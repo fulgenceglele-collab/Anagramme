@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1794402831 source:c:\users\hp\onedrive\desktop\j2\j2-c_anagramme\ft_are_anagrams.c
+	"anagrammes.h"
+
+1794546612 source:c:\users\hp\onedrive\desktop\j2\j2-c_anagramme\ft_sort_chars.c
+	"anagrammes.h"
+
+1794393141 source:c:\users\hp\onedrive\desktop\j2\j2-c_anagramme\ft_strcmp.c
+	"anagrammes.h"
+
+1794392719 source:c:\users\hp\onedrive\desktop\j2\j2-c_anagramme\ft_strlen.c
+	"anagrammes.h"
+
+1794304439 source:c:\users\hp\onedrive\desktop\j2\j2-c_anagramme\ft_tolower.c
+
+1794399825 c:\users\hp\onedrive\desktop\j2\j2-c_anagramme\anagrammes.h
+	<stddef.h>
+
+1794547903 source:c:\users\hp\onedrive\desktop\j2\j2-c_anagramme\main.c
+	<unistd.h>
+	<stdlib.h>
+	"anagrammes.h"
+
+1794399891 source:c:\users\hp\onedrive\desktop\j2\j2-c_anagramme\ft_ tolower.c
+	"anagrammes.h"
+
